@@ -1,0 +1,10 @@
+body{
+  font-family: 'Inria Sans', sans-serif;
+}
+.hero{
+  height: calc(100vh - 72px);
+  background: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
